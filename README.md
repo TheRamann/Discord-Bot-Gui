@@ -5,7 +5,7 @@ We got you covered <img src="https://cdn.discordapp.com/emojis/70153321895179064
 
 # Installation <img src="https://cdn.discordapp.com/emojis/316264057659326464.png?v=1" alt = "🖥" width="35px">
 
-I'll make this part in a second 🚶‍♀️
+<a href = "https://github.com/TheRamann/discord-bot-gui/releases/tag/v1.0"> To download it, just click here </a>
 
 # Want to contribute? <img src="https://cdn.discordapp.com/emojis/655160803573628928.gif?v=1" alt = "🤔" width="35px">
 
